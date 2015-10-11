@@ -1,0 +1,4 @@
+SHELL=/bin/bash
+MAILTO=ragen
+*/2 * * * * ~/Programs/BashProgr/TimeAndDate.sh >> /tmp/cron_test
+
